@@ -60,6 +60,14 @@ This project focuses on detecting high-risk transactions and potential fraud pat
 
 ---
 
+## 📁 Dataset Source
+
+- Original dataset from Kaggle: [PaySim – Fraud Detection](https://www.kaggle.com/datasets/ntnu-testimon/paysim1)
+- Due to licensing and size constraints, raw data is not included in this repository.
+- Only the filtered **high-risk transactions** (`high_risk_transactions.csv`) are used and shared for dashboard visualization.
+
+The original data was sourced from the Kaggle PaySim Dataset (Synthetic Financial Dataset for Fraud Detection). Due to size/licensing, raw data is not uploaded here. Only transformed outputs are shared
+
 ## 📬 Contact
 
 If you found this useful or want to collaborate, feel free to connect:
